@@ -84,10 +84,10 @@
               "background-color": "@bg-value"
             },
             "H1": {
-              "color": "#ff7f9f"
+              "color": "#ff3366"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ff3366",
+              "color": "#ff7f9f",
               "text-align": "center"
             }
           },
